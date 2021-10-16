@@ -4,7 +4,7 @@ This repository is the matlab implementation of Sliced Sparse Gradient Induced M
 ```
 #dataset: Extended yaleB 
 ```
-For the Extended yaleB database file exceeds 25m, you should download the dataset from: http://cvc.cs.yale.edu/cvc/projects/yalefacesB/yalefacesB.html
+dataset is placed in master branch.
 
 Test the SSGTAR algorithm via 
 ```
