@@ -1,5 +1,5 @@
 ## **Code**
-This repository is the matlab implementation of 
+This repository is the matlab implementation of our algorithm
 ### Usage
 ```
 #dataset: Extended yaleB 
