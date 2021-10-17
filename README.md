@@ -1,5 +1,5 @@
 ## **Code-for-SSGTAR**
-This repository is the matlab implementation of Sliced Sparse Gradient Induced Multi-View Subspace Clustering via Tensorial Arctangent-Rank Minimization
+This repository is the matlab implementation of 
 ### Usage
 ```
 #dataset: Extended yaleB 
