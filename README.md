@@ -1,4 +1,4 @@
-## **Code-for-SSGTAR**
+## **Code**
 This repository is the matlab implementation of 
 ### Usage
 ```
